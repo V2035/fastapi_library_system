@@ -5,5 +5,5 @@ This repository contains my FastAPI Internship Project: a Library Book Managemen
 - CRUD operations 
 - Multi-step workflows 
 - Search, sorting, and pagination
-- API testing using Swagger UI 
+- API testing 
 - Organized project structure with screenshots
